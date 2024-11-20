@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/bin/Debug/net8.0/Yılanoyunu
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/bin/Debug/net8.0/Yılanoyunu.deps.json
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/bin/Debug/net8.0/Yılanoyunu.runtimeconfig.json
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/bin/Debug/net8.0/Yılanoyunu.dll
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/bin/Debug/net8.0/Yılanoyunu.pdb
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.AssemblyInfo.cs
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.dll
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/refint/Yılanoyunu.dll
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.pdb
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/Yılanoyunu.genruntimeconfig.cache
+/Users/svage/RiderProjects/Yılanoyunu/Yılanoyunu/obj/Debug/net8.0/ref/Yılanoyunu.dll
